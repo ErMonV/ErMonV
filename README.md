@@ -1,6 +1,6 @@
 <!-- Header with animated banner -->
 <p align="center">
-  <img src="https://github.com/ErMonV/ErMonV/blob/sandbox/images/Banner-GitHub-ENG.png" width="100%" alt="Banner">
+  <img src="https://github.com/ErMonV/ErMonV/blob/sandbox/images/Banner-GitHub-ENG2.png" width="100%" alt="Banner">
 </p>
 
 ## 📫 Connect with Me
