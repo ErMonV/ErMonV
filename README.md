@@ -1,16 +1,15 @@
 <!-- Header with animated banner -->
 <p align="center">
-  <img src="https://github.com/ErMonV/ErMonV/blob/main/images/github-header-banner.png" width="100%" alt="Banner">
+  <img src="https://github.com/ErMonV/ErMonV/blob/sandbox/images/Banner-GitHub-ENG.png" width="100%" alt="Banner">
 </p>
 
-<h3 align="center"> 💻 Aspiring Developer | 📊 Passionate about AI and Data Science</h3>
-
----
-
-## 🌟 About Me
-💡 Versatile professional with a strong interest in software development, artificial intelligence, and data analysis.  
-📚 Constantly learning new technologies and embracing challenges with a positive mindset.  
-🎯 Current goal: to specialize in **Python, SQL, and Machine Learning**.  
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ermonroy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ernesto_monroy@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href="mailto:ernestomonroyv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ErMonV"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
@@ -39,15 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErMonV&layout=compact&theme=tokyonight" height="150">
 </p>
 
----
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ermonroy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ernesto_monroy@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-  <a href="mailto:ernestomonroyv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ErMonV"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 ---
 
