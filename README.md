@@ -38,6 +38,7 @@
   
   <!-- C++ -->
   <img src="https://custom-icon-badges.demolab.com/badge/C++-173DFC?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=173DFC">
+</p>
 
 ---
 
