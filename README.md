@@ -1,4 +1,4 @@
-<!-- Header with animated banner -->
+<!-- Header with banner -->
 <p align="center">
   <img src="https://github.com/ErMonV/ErMonV/blob/main/images/Banner-GitHub-ENG3.jpg" width="100%" alt="Banner">
 </p>
