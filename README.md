@@ -45,7 +45,11 @@
 ## 🌐 Languages
 - 🇪🇸 **Spanish** — Native  
 - 🇬🇧 **English** — Advanced  
-- 🇫🇷 **French** — Basic  
+- 🇫🇷 **French** — Basic
+
+<p align="right">
+  <img src="https://github.com/ErMonV/ErMonV/blob/main/images/GitHub-cats.png" width="30%" alt="Cats">
+</p>
 
 <!--
 
