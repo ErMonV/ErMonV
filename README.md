@@ -4,21 +4,22 @@
 </p>
 
 ## 📫 Connect with Me
+
 <p align="left">
   <!-- LinkedIn-->
   <a href="https://www.linkedin.com/in/ermonroy/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0033FF?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=0033FF">
-  </a>
+  </a>&nbsp;&nbsp;
   
   <!-- Outlook-->
   <a href="mailto:ernesto_monroy@outlook.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Windows-0090FF?style=for-the-badge&logo=windows11&logoColor=white&labelColor=0090FF">
-  </a>
+  </a>&nbsp;&nbsp;
   
   <!-- Gmail-->
   <a href="mailto:ernestomonroyv@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FC1758?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FC1758">
-  </a>
+  </a>&nbsp;&nbsp;
   
   <!-- GitHub -->
   <a href="https://github.com/ErMonV">
@@ -31,10 +32,10 @@
 ## 🛠 Technologies & Tools
 <p align="left">
   <!-- Python -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-FCCA17?style=for-the-badge&logo=python&logoColor=white&labelColor=FCCA17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-FCCA17?style=for-the-badge&logo=python&logoColor=white&labelColor=FCCA17">&nbsp;&nbsp;
   
   <!-- SQL -->
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-17ACFC?style=for-the-badge&logo=sql&logoColor=white&labelColor=17ACFC">
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-17ACFC?style=for-the-badge&logo=sql&logoColor=white&labelColor=17ACFC">&nbsp;&nbsp;
   
   <!-- C++ -->
   <img src="https://custom-icon-badges.demolab.com/badge/C++-173DFC?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=173DFC">
